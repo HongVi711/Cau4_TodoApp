@@ -1,0 +1,91 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.sdf
+*.cache
+*.dbmdl
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## DotCover
+*.dotCover
+
+## ASP.NET temporary files
+**/App_Data/Temp/
+**/App_Data/Logs/
+
+## Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Microsoft Azure Build artifacts
+csx/
+*.build.csdef
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## VS for Mac
+.vscode/
+.idea/
+*.userprefs
+
+## Logs
+*.log
+*.tlog
+
+## Web
+node_modules/
+dist/
+wwwroot/lib/
+bower_components/
+
+## Publish
+*.publishsettings
+*.pubxml
+*.azurePubxml
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Coverlet code coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+
+## Others
+TestResults/
+nunit-*.xml
